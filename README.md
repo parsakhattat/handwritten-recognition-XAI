@@ -44,8 +44,8 @@ The last convolutional layer is explicitly named `last_conv` so Grad-CAM can loc
 
 ### 1. Clone & install
 
-    git clone https://github.com/parsakhattat/handwritten-recongition-XAI.git
-    cd handwritten-recongition-XAI
+    git clone https://github.com/parsakhattat/handwritten-recognition-XAI.git
+    cd handwritten-recognition-XAI
     python -m venv venv
     source venv/bin/activate          # Windows: venv\Scripts\activate
     pip install -r requirements.txt
